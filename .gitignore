@@ -1,0 +1,8 @@
+.vscode
+.antlr
+*.class
+out/
+*tar.gz
+*.interp
+*.tokens
+Arquivo

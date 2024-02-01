@@ -1,0 +1,7 @@
+## p1fafafa
+output 2+2i;
+
+output 4;
+output i;
+4-i => c;
+output c;
